@@ -21,5 +21,5 @@
 
 
 Приклад :
-[Ukraine_2023-06-15-1145.tar.gz](https://github.com/r00tag3nt/FortiMail-Ukrain-Language/blob/main/resources/Ukraine_2023-06-15-1145.tar.gz)
+[Ukrain](https://github.com/r00tag3nt/FortiMail-Ukrain-Language/blob/main/resources/Ukrain_2023-06-15-1206.tar.gz)
 
