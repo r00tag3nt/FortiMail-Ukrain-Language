@@ -1,14 +1,14 @@
 Зайти в налаштування FortiMail ***Systeam - Customizations - Webmail Language Customization***
 
 
-![1.png](../../resources/1.png)
+![1.png](/resources/1.png)
 
 
 Натиснути **+Create** для створоння нового язикового пакету 
 
 
 
-![2.png](../../resources/2.png)
+![2.png](../resources/2.png)
 
 
 та вводимо назву на англійскій мові та назву на Українській мові
