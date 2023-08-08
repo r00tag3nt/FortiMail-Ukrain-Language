@@ -23,4 +23,5 @@
 
 ![FortiMail_ukr.png](/resources/FortiMail_ukr.png)
 
-Файл: ![Ukrain_2023-08-07-1043.tar.gz](https://github.com/r00tag3nt/FortiMail-Ukrain-Language/raw/main/resources/Ukrain_2023-08-07-1043.tar.gz)
+Файл: [![Ukrain_2023-08-07-1043.tar.gz]([https://github.com/r00tag3nt/FortiMail-Ukrain-Language/raw/main/resources/Ukrain_2023-08-07-1043.tar.gz](https://github.com/r00tag3nt/FortiMail-Ukrain-Language/raw/main/resources/Ukrain_2023-08-07-1043.tar.gz))
+](https://github.com/r00tag3nt/FortiMail-Ukrain-Language/raw/main/resources/Ukrain_2023-08-07-1043.tar.gz)https://github.com/r00tag3nt/FortiMail-Ukrain-Language/raw/main/resources/Ukrain_2023-08-07-1043.tar.gz
